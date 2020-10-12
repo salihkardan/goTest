@@ -3,5 +3,5 @@ package goTest
 import "fmt"
 
 func GoTestModules()  {
-	fmt.Println("salih pcss.")
+	fmt.Println("salih pcs-prod.")
 }
